@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack{
-            Text("Gihub Project")
+            Text("Github Project")
                 .bold()
                 .font(.title)
             Text("Hello, world!")
